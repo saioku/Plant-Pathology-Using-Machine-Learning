@@ -1,0 +1,13 @@
+# Core requirements
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.7.1
+scikit-learn==1.2.2
+
+# TensorFlow ecosystem
+tensorflow==2.12.0
+keras==2.12.0
+
+# Additional utilities
+Pillow==9.5.0
+h5py==3.8.0
